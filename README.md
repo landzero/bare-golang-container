@@ -1,0 +1,1 @@
+# bare-golang-container
